@@ -1,0 +1,722 @@
+
+
+
+.wedlog{
+width: 100px;
+}
+.navbar-brand{
+    padding: 0px;
+}
+body{
+   margin: 0px;
+   padding: 0px;
+
+    background-image: url("../img/backgroundred.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    
+}
+.fa-house-chimney{
+    padding: 2px;
+    color: red;
+}
+
+.fa-servicestack{
+    padding: 2px;
+    color: red;
+}
+.fa-at{
+    padding: 2px;
+    color:red;
+}
+.fa-phone-volume{
+    padding: 1px;
+    color: skyblue;
+}
+.fa-user{
+height: 14px;
+color:burlywood;
+}
+.fa-location-dot{
+    color: blue;
+}
+a{
+color: red;
+}
+
+
+.card{
+    height: 300px;
+    color: red;
+    background-color: yellow;
+    border: 1px solid red;
+    box-shadow: 15px 15px 0px 0px solid green;
+}
+.card:hover{
+    border: 1px solid black;
+    color: red;
+}
+.fa-star{
+    width: 15px;
+    color:red;
+}
+
+
+.fa-user{
+ padding: 4px;
+ height: 17px;
+ width: 20px;
+ color: black;
+ background-color: white;
+ border-radius: 50%;
+
+}
+
+.fa-user-plus{
+    padding: 3px;
+}
+.first{
+    width: 1350;
+    height: 180px;
+    background-color:gray;
+}
+.cardone{
+    background-color:#875226;
+    border-radius: 5%;
+    text-align: center;
+   
+}
+.manage{
+    height: 120px;
+   
+}
+
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+    
+    
+}
+.footer{
+    background-color:yellow;
+    border-bottom: 1px solid red;
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+
+
+}
+
+h5{
+    color: white;
+}
+.footer-body{
+  
+    background-image: url("../img/backgroundyellow.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+a{
+    text-decoration: none;
+    color:black;
+    font-size:15px;
+}
+a:hover{
+    color:black;
+}
+
+
+
+
+
+.fa-download{
+color:gray;
+height:20px;
+padding: 2PX;
+}
+.imgnum-2{
+   
+    width: 90px;
+    height: 80px;
+    border-radius: 90%;
+    display: inline-block;
+    padding: 5px;
+    
+}
+.images{
+    width: 350px;
+    height: 400px;
+
+  }
+
+
+
+.sizewdt{
+    font-size: 14px;
+}
+.hongover:hover{
+background: pink;    
+}
+.fa-chevron-right{
+    color: red;
+    width: 230px;
+}
+
+
+.gap{
+    padding: 5px;
+}
+.lastfooter{
+    height: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.headund{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-decoration-color:yellow;
+    text-decoration-style: solid;
+    padding: 3px;
+}
+.fa-handshake-angle{
+    padding: 3px;
+
+    color:orange;
+}
+.fa-money-check-dollar{
+    padding: 1px;
+    
+    color: orange;
+}
+.banbg{
+    width: 100%;
+    height: 150px;
+    background-image: url("../img/bannel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+.piccouple{
+    background-image: url("../img/couplehandimg.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+.modsize{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    
+    text-decoration:underline solid yellow;
+}
+.headund{
+    text-decoration: underline solid yellow;
+}
+.fmlysty{
+    font-family:'Times New Roman', Times, serif;
+    background-color: red;
+    color: white;
+    text-decoration: underline solid yellow;
+}
+.fontfmly{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline solid yellow ;
+}
+
+.dpluy{
+    
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    
+}
+.one{
+    display: inline-block;
+}
+.two{
+    display: inline-block;
+}
+
+.pdy{
+    padding: 5px;
+}
+.fa-apple{
+    height: 29px;
+    color: white;
+    padding: 2px;
+
+}
+
+
+.fa-google{
+    height: 25px;
+    color:red;
+    padding: 2px;
+}
+.fa-facebook{
+    height: 25px;
+    color:blue;
+    padding: 2px;
+}
+
+
+.fa-instagram{
+    height: 25px;
+    color: orangered;
+    padding: 2px;
+
+}
+
+.fa-youtube {
+height: 25px;
+color:red;
+padding: 2px;}
+.fa-square-twitter{
+ height: 25px;
+color:skyblue;
+padding: 2px;}
+
+
+.imgnum-1{
+    border-radius: 10%;
+}
+.fa-cart-shopping{
+    color: gray;
+    height: 20px;
+    padding: 2px;
+}
+
+.fa-truck{
+    color: red;
+    padding: 3px;
+}
+.fotfly{
+    font-family: 'Times New Roman', Times, serif;
+}
+.fa-phone-volume{
+color: red;
+}
+
+.fa-arrow-down{
+    color:white;
+    height: 40px;
+}
+.hgt{
+    height: 500px;
+}
+.backbg{
+    height:450px;
+    background-image: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.newfmly{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: underline red;
+    
+    
+    
+}
+.brdnon{
+    background: none;
+    border-top: none;
+    
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid yellow;
+    text-align: center;
+}
+.brdnon:hover{
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom:1px solid yellow;
+    color: none;
+    
+}
+.sunbg{
+    height: 520px;
+    background-image: url("../img/sunnflowersign.av");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.herepi{
+    
+
+
+    background-image: url("../img/weddingdhol10.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   animation-name: animation;
+    animation-duration: 10s;
+    animation-iteration-count:infinite;
+  }
+  @keyframes animation{
+    0%{
+        background-image:url("../img/weddingdhol10.jpg") ;
+    }
+    5%{
+        background-image:url("../img/tandoorinan5.jpg") ;
+    }
+    10%{
+        background-image:url("../img/mehndicone.png") ;
+    }
+    
+    25%{
+        background-image:url("../img/haldi1.jpg") ;
+    }
+    50%{
+        background-image:url("../img/bangles2.jpg") ;
+    }
+    75%{
+        background-image:url("../img/weddingdhol10.jpg") ;
+    }
+    100%{
+        background-image:url("../img/weddingdhol10.jpg") ;
+    }
+    
+    }
+   
+    .cardtwo{
+     
+       
+        background-image: url("../img/tandoorinan4.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+       animation-name: animation_two;
+        animation-duration: 10s;
+        animation-iteration-count:infinite;
+      }
+      @keyframes animation_two{
+        0%{
+            background-image:url("../img/tandoorinan4.jpg") ;
+        }
+        5%{
+            background-image:url("../img/makingfood2.jpg") ;
+        }
+        10%{
+            background-image:url("../img/tents11.jpg") ;
+        }
+        
+        25%{
+            background-image:url("../img/weddingcard13.png") ;
+        }
+        50%{
+            background-image:url("../img/weddingdhol1.jpg") ;
+        }
+        75%{
+            background-image:url("../img/weddingdinner10.jpg") ;
+        }
+        100%{
+            background-image:url("../img/tandoorinan4.jpg") ;
+        }
+        
+        }
+        .colbl{
+            border: 1px solid yellow;
+           
+        }
+        .endfot{
+            text-align: center;
+        }
+    
+        .ordnon:hover{
+            background: none;
+            border-top: none;
+            border-left: none;
+            border-right: none;
+            border-bottom:none;
+            color: none;
+            border: 1px solid pink;
+            
+        }
+        .fa-phone{
+            color: black;
+            height: 80px;
+        }
+     .hvrcol:hover{
+        color: red;
+        background-color: orange;
+
+     }
+     .hvrcol{
+        color: yellow;
+        background-color: red;
+     }
+     
+     .backanim{
+        background-image: url("../img/hall2.jpg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        animation-name: center_anim;
+        animation-duration: 10s;
+        animation-iteration-count: infinite;
+     }
+     @keyframes center_anim{
+        0%{
+            background-image: url("../img/hall2.jpg");
+        }
+
+        15%{
+            background-image: url("../img/hall3.jpg");
+        }
+
+        25%{
+            background-image: url("../img/hall4.jpeg");
+        }
+        50%{
+            background-image: url("../img/furniture3.jpg");
+        }
+        75%{
+            background-image: url("../img/tents8.webp");
+        }
+        100%{
+            background-image: url("../img/hall8.jpg");
+        }
+     }
+ .foodbg{
+    width: 100%;
+    height:100vh;
+    background-image: url("../img/food1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+ }
+
+ @media(max-width:768px){
+    .custom{
+        display: none;
+    }
+    }
+.rotibg{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/tandoorinan4.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rotibg:hover{
+    opacity: 0.6;
+}
+.tentbg{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/tents11.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wedcard{
+
+    width: 100%;
+    height: 100vh;
+    
+}
+.wedcard{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/weddingcards14.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.vesselbg{
+    width: 100%;
+    height: 1150px;
+    background-image: url("../img/weddingdinner14.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.perdholak{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/weddingdhol1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.decoratebg{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/decorationsix.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.mehndicone{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/mehndicone.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.dressmhd{
+    width: 100%;
+height: 1000px;
+    background-image: url("../img/mehndidressbgdone.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.sweetsbg{
+    width: 100%;
+    height: 1260px;
+    background-image: url("../img/mitayie14.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.haldibg{
+    width: 100%;
+    height:100vh;
+    background-image: url("../img/haldi2.avif");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.banglesbg{
+    width: 100%;
+    height:100vh;
+    background-image: url("../img/banglesbackbg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.photographybg{
+    width: 100%;
+    height:100vh;
+    background-image: url("../img/photographyteam.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.photographybg:hover{
+    opacity: 0.5;
+}
+.djback{
+    width: 100%;
+    height:1100px;
+    background-image: url("../img/djbackground.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.langhabg{
+    width: 100%;
+    height:1000px;
+    background-image: url("../img/shadidress1.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.backgift{
+    width: 100%;
+    height:1000px;
+    background-image: url("../img/weddinggiftbackyellow.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.beautybac{
+    width: 100%;
+    height:100vh;
+    background-image: url("../img/beauty1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.hallbg{
+    width: 100%;
+    height:100vh;
+    background-image: url("../img/hall4.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+}
+.fa-globe{
+    padding: 3px;
+    height: 16px;
+    color: blue;
+}
+.fa-envelope{
+    height: 55px;
+}
+.fa-phone{
+    height: 55px;
+}
+.fa-location-dot{
+height: 25px;
+}
+.fa-beat{
+    height: 55px;
+}
+.furniturebg{
+
+    width: 100%;
+    height:1000px;
+    background-image: url("../img/furniturebg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+
+}
+@media(max-width:768px){
+    .manage{
+        display: none;
+    }
+    }
+
+    
+    
+    #loader{
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: white;
+        background-image: url("../img/frontload.gif");
+        background-position: center;
+        background-repeat: no-repeat;
+        
+        z-index: 9999;
+    }
